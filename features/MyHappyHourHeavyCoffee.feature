@@ -8,6 +8,6 @@ Feature: MyHappyHourHeavyCoffee
     Then I excpect that the coffee is server for half the price
     
 Scenario:
-    Given that I am a second coffee drinker
+    Given that I am a luck coffee drinker
     When I go to the coffee show
     Then I am happy
