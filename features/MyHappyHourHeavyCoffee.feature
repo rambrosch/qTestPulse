@@ -10,4 +10,4 @@ Feature: MyHappyHourHeavyCoffee
 Scenario:
     Given that I am a luck coffee drinker
     When I go to the coffee show
-    Then I am very happy
+    Then I am very happy today
